@@ -1,24 +1,5 @@
-# empty_vue
 
-## Project setup
-```
-npm install
-```
+use vue 3 veux 4 vue-cookies router axios. auth and logout working for localhost tests. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+i'm recommend create project with vue CLI and replace files.
+for create project  choose vue3 vuex router
